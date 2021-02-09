@@ -1,1 +1,8 @@
-test push
+---
+title: "R Markdown Schedule"
+author: "Daniel Seok Lee"
+date: "February 8, 2021"
+output: html_notebook
+---
+
+# Schedule
