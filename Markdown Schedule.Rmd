@@ -6,3 +6,10 @@ output: html_notebook
 ---
 
 # Schedule
+
+
+### STAT 184: Introduction to R Programmaing
+
+In this class, I'm learning how to program in R, use RStudio, Git, and GitHub. We are only a few weeks in, but I am enjoying the class.
+https://en.wikipedia.org/wiki/R_(programming_language)
+![R Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/100px-R_logo.svg.png)
