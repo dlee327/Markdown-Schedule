@@ -13,3 +13,11 @@ output: html_notebook
 In this class, I'm learning how to program in R, use RStudio, Git, and GitHub. We are only a few weeks in, but I am enjoying the class.
 https://en.wikipedia.org/wiki/R_(programming_language)
 ![R Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/100px-R_logo.svg.png)
+
+
+### Basketball
+
+I've been watching a lot of basketball ever since the new season started. I'm hoping the LA Lakers win another championship this year. This win will make us have the most championships in the whole league at #18.
+http://www.laalmanac.com/sports/sp11d.php
+![2020 Championship Ring](https://robbreport.com/wp-content/uploads/2020/12/lakers01.jpg?w=500)
+
